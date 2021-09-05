@@ -10,7 +10,7 @@
             "date": "January 28, 2022",
             "time": "12:00",
             "organizer": "Kat Laydee",
-            "stock": 24,
+            "stock": 24
         },
         {
             "id": 2,
@@ -22,7 +22,7 @@
             "price": 3999,
             "time": "10:00",
             "organizer": "Fern Pollin",
-            "stock": 20,
+            "stock": 20
         },
         {
             "id": 3,
@@ -34,7 +34,7 @@
             "date": "July 22, 2022",
             "time": "11:00",
             "organizer": "Carey Wales",
-            "stock": 30,
+            "stock": 30
         }
     ]
 }
